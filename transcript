@@ -1,0 +1,32 @@
+# Compile of xor_gate.v was successful.
+# Compile of testbench.v was successful.
+# 2 compiles, 0 failed with no errors.
+# can't read "Startup(-L)": no such element in array
+# Load canceled
+# can't read "Startup(-L)": no such element in array
+# Load canceled
+# Compile of xor_gate.v was successful.
+# Compile of testbench.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.testbench
+# vsim work.testbench 
+# Start time: 23:07:20 on Apr 10,2026
+# Loading work.testbench
+# Loading work.xor_gate
+run
+run
+# WARNING: No extended dataflow license exists
+step
+# Nothing left to do.
+step
+# Nothing left to do.
+run -all
+# Compile of xor_gate.v was successful.
+# Compile of testbench.v was successful.
+# 2 compiles, 0 failed with no errors.
+# can't read "Startup(-L)": no such element in array
+# Load canceled
+# can't read "Startup(-L)": no such element in array
+# Load canceled
+# End time: 23:09:45 on Apr 10,2026, Elapsed time: 0:02:25
+# Errors: 0, Warnings: 7
