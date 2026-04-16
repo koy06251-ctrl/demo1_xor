@@ -1,5 +1,5 @@
 Flow report for demo1_xor
-Thu Apr 16 09:56:48 2026
+Thu Apr 16 10:14:34 2026
 Quartus Prime Version 25.1std.0 Build 1129 10/21/2025 SC Lite Edition
 
 
@@ -41,7 +41,7 @@ on the Quartus Prime software download page.
 +--------------------------------------------------------------------------------------+
 ; Flow Summary                                                                         ;
 +------------------------------------+-------------------------------------------------+
-; Flow Status                        ; Successful - Thu Apr 16 09:56:48 2026           ;
+; Flow Status                        ; Successful - Thu Apr 16 10:14:34 2026           ;
 ; Quartus Prime Version              ; 25.1std.0 Build 1129 10/21/2025 SC Lite Edition ;
 ; Revision Name                      ; demo1_xor                                       ;
 ; Top-level Entity Name              ; xor_gate                                        ;
@@ -65,7 +65,7 @@ on the Quartus Prime software download page.
 +-------------------+---------------------+
 ; Option            ; Setting             ;
 +-------------------+---------------------+
-; Start date & time ; 04/16/2026 09:56:22 ;
+; Start date & time ; 04/16/2026 10:14:15 ;
 ; Main task         ; Compilation         ;
 ; Revision Name     ; demo1_xor           ;
 +-------------------+---------------------+
@@ -76,7 +76,7 @@ on the Quartus Prime software download page.
 +-------------------------------------+----------------------------------------+---------------+-------------+-----------------------------------+
 ; Assignment Name                     ; Value                                  ; Default Value ; Entity Name ; Section Id                        ;
 +-------------------------------------+----------------------------------------+---------------+-------------+-----------------------------------+
-; COMPILER_SIGNATURE_ID               ; 271030158508371.177630458205768        ; --            ; --          ; --                                ;
+; COMPILER_SIGNATURE_ID               ; 271030158508371.177630565518304        ; --            ; --          ; --                                ;
 ; EDA_GENERATE_FUNCTIONAL_NETLIST     ; Off                                    ; --            ; --          ; eda_board_design_timing           ;
 ; EDA_GENERATE_FUNCTIONAL_NETLIST     ; Off                                    ; --            ; --          ; eda_board_design_boundary_scan    ;
 ; EDA_GENERATE_FUNCTIONAL_NETLIST     ; Off                                    ; --            ; --          ; eda_board_design_signal_integrity ;
@@ -102,12 +102,12 @@ on the Quartus Prime software download page.
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 ; Module Name          ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
-; Analysis & Synthesis ; 00:00:07     ; 1.0                     ; 4809 MB             ; 00:00:17                           ;
-; Fitter               ; 00:00:10     ; 1.0                     ; 6247 MB             ; 00:00:21                           ;
+; Analysis & Synthesis ; 00:00:07     ; 1.0                     ; 4809 MB             ; 00:00:16                           ;
+; Fitter               ; 00:00:06     ; 1.0                     ; 6247 MB             ; 00:00:15                           ;
 ; Assembler            ; 00:00:02     ; 1.0                     ; 4996 MB             ; 00:00:02                           ;
-; Timing Analyzer      ; 00:00:01     ; 1.0                     ; 4939 MB             ; 00:00:01                           ;
-; EDA Netlist Writer   ; 00:00:01     ; 1.0                     ; 4687 MB             ; 00:00:00                           ;
-; Total                ; 00:00:21     ; --                      ; --                  ; 00:00:41                           ;
+; Timing Analyzer      ; 00:00:01     ; 1.0                     ; 4923 MB             ; 00:00:01                           ;
+; EDA Netlist Writer   ; 00:00:00     ; 1.0                     ; 4687 MB             ; 00:00:00                           ;
+; Total                ; 00:00:16     ; --                      ; --                  ; 00:00:34                           ;
 +----------------------+--------------+-------------------------+---------------------+------------------------------------+
 
 
