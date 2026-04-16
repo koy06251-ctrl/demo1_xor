@@ -1,87 +1,12 @@
+# Reading pref.tcl
+# OpenFile C:/FPGA_demo/T09/demo1_xor/demo1_xor.mpf
+# Loading project demo1_xor
 vsim work.testbench
 # vsim work.testbench 
-# Start time: 09:51:27 on Apr 16,2026
+# Start time: 11:01:19 on Apr 16,2026
 # Loading work.testbench
 # Loading work.xor_gate
-# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Y'.
-#    Time: 0 ps  Iteration: 0  Instance: /testbench/dut File: C:/FPGA_demo/T09/demo1_xor/testbench.v Line: 10
-# Error loading design
-# End time: 09:51:27 on Apr 16,2026, Elapsed time: 0:00:00
-# Errors: 1, Warnings: 1
-vsim work.testbench
-# vsim work.testbench 
-# Start time: 09:51:33 on Apr 16,2026
-# Loading work.testbench
-# Loading work.xor_gate
-# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Y'.
-#    Time: 0 ps  Iteration: 0  Instance: /testbench/dut File: C:/FPGA_demo/T09/demo1_xor/testbench.v Line: 10
-# Error loading design
-# End time: 09:51:33 on Apr 16,2026, Elapsed time: 0:00:00
-# Errors: 1, Warnings: 1
-# Compile of xor_gate.v was successful.
-# Compile of testbench.v was successful.
-# 2 compiles, 0 failed with no errors.
-# can't read "Startup(-L)": no such element in array
-# Load canceled
-# Compile of xor_gate.v was successful.
-# Compile of testbench.v was successful.
-# 2 compiles, 0 failed with no errors.
-# can't read "Startup(-L)": no such element in array
-# Load canceled
-# can't read "Startup(-L)": no such element in array
-# Load canceled
-# Compile of xor_gate.v was successful.
-# Compile of testbench.v was successful.
-# 2 compiles, 0 failed with no errors.
-vsim work.testbench
-# vsim work.testbench 
-# Start time: 09:53:30 on Apr 16,2026
-# Loading work.testbench
-# Loading work.xor_gate
-# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Y'.
-#    Time: 0 ps  Iteration: 0  Instance: /testbench/dut File: C:/FPGA_demo/T09/demo1_xor/testbench.v Line: 10
-# Error loading design
-# End time: 09:53:30 on Apr 16,2026, Elapsed time: 0:00:00
-# Errors: 1, Warnings: 6
-vsim work.testbench
-# vsim work.testbench 
-# Start time: 09:53:33 on Apr 16,2026
-# Loading work.testbench
-# Loading work.xor_gate
-# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'Y'.
-#    Time: 0 ps  Iteration: 0  Instance: /testbench/dut File: C:/FPGA_demo/T09/demo1_xor/testbench.v Line: 10
-# Error loading design
-# End time: 09:53:33 on Apr 16,2026, Elapsed time: 0:00:00
-# Errors: 1, Warnings: 1
-# A time value could not be extracted from the current line
-# Compile of xor_gate.v was successful.
-# Compile of testbench.v was successful.
-# 2 compiles, 0 failed with no errors.
-# Compile of xor_gate.v was successful.
-# Compile of testbench.v was successful.
-# 2 compiles, 0 failed with no errors.
-# can't read "Startup(-L)": no such element in array
-# Load canceled
-vsim work.testbench
-# vsim work.testbench 
-# Start time: 09:56:51 on Apr 16,2026
-# Loading work.testbench
-# Loading work.xor_gate
-# can't read "Startup(-L)": no such element in array
-# Load canceled
-# can't read "Startup(-L)": no such element in array
-# Load canceled
-quit -sim
-# End time: 09:57:21 on Apr 16,2026, Elapsed time: 0:00:30
-# Errors: 0, Warnings: 3
-# can't read "Startup(-L)": no such element in array
-# Load canceled
-vsim work.testbench
-# vsim work.testbench 
-# Start time: 09:57:30 on Apr 16,2026
-# Loading work.testbench
-# Loading work.xor_gate
-run -all
+run
 write format wave -window .main_pane.wave.interior.cs.body.pw.wf C:/FPGA_demo/T09/demo1_xor/wave.do
-# End time: 10:01:35 on Apr 16,2026, Elapsed time: 0:04:05
+# End time: 11:03:01 on Apr 16,2026, Elapsed time: 0:01:42
 # Errors: 0, Warnings: 1
