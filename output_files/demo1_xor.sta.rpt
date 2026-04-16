@@ -1,5 +1,5 @@
 Timing Analyzer report for demo1_xor
-Tue Apr 14 08:59:26 2026
+Thu Apr 16 08:55:14 2026
 Quartus Prime Version 25.1std.0 Build 1129 10/21/2025 SC Lite Edition
 
 
@@ -91,12 +91,12 @@ on the Quartus Prime software download page.
 ; Number detected on machine ; 12          ;
 ; Maximum allowed            ; 10          ;
 ;                            ;             ;
-; Average used               ; 1.02        ;
+; Average used               ; 1.03        ;
 ; Maximum used               ; 10          ;
 ;                            ;             ;
 ; Usage by Processor         ; % Time Used ;
 ;     Processor 1            ; 100.0%      ;
-;     Processors 2-10        ;   0.2%      ;
+;     Processors 2-10        ;   0.3%      ;
 +----------------------------+-------------+
 
 
@@ -375,7 +375,7 @@ No non-DPA dedicated SERDES Receiver circuitry present in device or used in desi
 Info: *******************************************************************
 Info: Running Quartus Prime Timing Analyzer
     Info: Version 25.1std.0 Build 1129 10/21/2025 SC Lite Edition
-    Info: Processing started: Tue Apr 14 08:59:25 2026
+    Info: Processing started: Thu Apr 16 08:55:13 2026
 Info: Command: quartus_sta demo1_xor -c demo1_xor
 Info: qsta_default_script.tcl version: #1
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
@@ -423,8 +423,8 @@ Info (332140): No Minimum Pulse Width paths to report
 Info (332102): Design is not fully constrained for setup requirements
 Info (332102): Design is not fully constrained for hold requirements
 Info: Quartus Prime Timing Analyzer was successful. 0 errors, 5 warnings
-    Info: Peak virtual memory: 4923 megabytes
-    Info: Processing ended: Tue Apr 14 08:59:26 2026
+    Info: Peak virtual memory: 4931 megabytes
+    Info: Processing ended: Thu Apr 16 08:55:14 2026
     Info: Elapsed time: 00:00:01
     Info: Total CPU time (on all processors): 00:00:01
 
