@@ -10,48 +10,48 @@ z2
 cModel Technology
 dC:/intelFPGA/20.1
 vtestbench
-Z0 !s110 1775833776
+Z0 !s110 1776304597
 !i10b 1
-!s100 :6>bcQM3UH^MdOX^oBU2A0
+!s100 1a0nWMo[5m?^;FNDgWf9;0
 Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
-IUi7AgK<K6k8bP]hH0gCNZ3
+IKSlllanal5RWI`?jT@I^k0
 Z2 VDg1SIo80bB@j0V0VzS_@n1
-Z3 dC:/FPGA_demo
-w1775831545
-8C:/FPGA_demo/T09/demo1_xor/testbench.v
-FC:/FPGA_demo/T09/demo1_xor/testbench.v
-!i122 7
+Z3 dC:/FPGA_demo/T09/demo1_xor
+w1776304560
+8C:\FPGA_demo\T09\demo1_xor\testbench.v
+FC:\FPGA_demo\T09\demo1_xor\testbench.v
+!i122 23
 L0 3 25
 Z4 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z5 !s108 1775833776.000000
-!s107 C:/FPGA_demo/T09/demo1_xor/testbench.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA_demo/T09/demo1_xor/testbench.v|
+Z5 !s108 1776304597.000000
+!s107 C:\FPGA_demo\T09\demo1_xor\testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\FPGA_demo\T09\demo1_xor\testbench.v|
 !i113 1
 Z6 o-work work
 Z7 tCvgOpt 0
 vxor_gate
 R0
 !i10b 1
-!s100 5=JBV`D5HL9jQ@mnYQTPO2
+!s100 ^nLHb7@4KOTmm=X0CR6kA2
 R1
-Io:H^^fLG06S?DZ`DX>U0U1
+I03Z<nfzkEflIOe^04oan<0
 R2
 R3
-w1775832214
-8C:/FPGA_demo/T09/demo1_xor/xor_gate.v
-FC:/FPGA_demo/T09/demo1_xor/xor_gate.v
-!i122 6
-L0 14 19
+w1776303489
+8C:\FPGA_demo\T09\demo1_xor\xor_gate.v
+FC:\FPGA_demo\T09\demo1_xor\xor_gate.v
+!i122 22
+L0 14 12
 R4
 r1
 !s85 0
 31
 R5
-!s107 C:/FPGA_demo/T09/demo1_xor/xor_gate.v|
-!s90 -reportprogress|300|-work|work|-stats=none|C:/FPGA_demo/T09/demo1_xor/xor_gate.v|
+!s107 C:\FPGA_demo\T09\demo1_xor\xor_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\FPGA_demo\T09\demo1_xor\xor_gate.v|
 !i113 1
 R6
 R7

@@ -1,9 +1,15 @@
-C:/FPGA_demo/T09/demo1_xor/testbench.v {0 {vlog -work work -stats=none {C:\FPGA_demo\T09\demo1_xor\testbench.v}
+C:/FPGA_demo/T09/demo1_xor/testbench.v {1 {vlog -work work -stats=none {C:\FPGA_demo\T09\demo1_xor\testbench.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-** Error: (vlog-66) Execution of vlib.exe failed. Please check the error log for more details.
+-- Compiling module testbench
 
-} {3.0 4.0} {}} C:/FPGA_demo/T09/demo1_xor/xor_gate.v {0 {vlog -work work -stats=none {C:\FPGA_demo\T09\demo1_xor\xor_gate.v}
+Top level modules:
+	testbench
+
+} {} {}} C:/FPGA_demo/T09/demo1_xor/xor_gate.v {1 {vlog -work work -stats=none {C:\FPGA_demo\T09\demo1_xor\xor_gate.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
-** Error: (vlog-66) Execution of vlib.exe failed. Please check the error log for more details.
+-- Compiling module xor_gate
 
-} {3.0 4.0} {}}
+Top level modules:
+	xor_gate
+
+} {} {}}
