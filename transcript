@@ -1,12 +1,11 @@
-# Reading pref.tcl
-# OpenFile C:/FPGA_demo/T09/demo1_xor/demo1_xor.mpf
-# Loading project demo1_xor
+# Compile of testbench.v was successful.
+# Compile of xor_gate.v was successful.
+# 2 compiles, 0 failed with no errors.
 vsim work.testbench
 # vsim work.testbench 
-# Start time: 11:01:19 on Apr 16,2026
+# Start time: 00:50:59 on Apr 30,2026
 # Loading work.testbench
 # Loading work.xor_gate
 run
-write format wave -window .main_pane.wave.interior.cs.body.pw.wf C:/FPGA_demo/T09/demo1_xor/wave.do
-# End time: 11:03:01 on Apr 16,2026, Elapsed time: 0:01:42
-# Errors: 0, Warnings: 1
+# End time: 00:51:36 on Apr 30,2026, Elapsed time: 0:00:37
+# Errors: 0, Warnings: 6
